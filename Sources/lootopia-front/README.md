@@ -55,7 +55,7 @@ Lootopia est une plateforme de chasse au trésor qui combine **géolocalisation*
 ### Backend
 
 - **Node.js** - Serveur API
-- **Express** - Framework web
+- **Hono** - Framework web
 - **SQLite** - Base de données
 - **JWT** - Authentification
 
